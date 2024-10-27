@@ -1,11 +1,11 @@
 # ChatRoom-NightShade-Cohere-Purple-Chatbot
-
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/jps1990/ChatRoom-NightShade-Cohere-Purple-Chatbot)
 
 
 alright, here’s your bilingual README, so everyone can experience the dark charm of NightShade in both languages:
 
 NightShade Chatroom 🌙💀
+https://nightshade.netlify.app/
 ENGLISH
 
 welcome to NightShade, the goth-themed chatroom where the bot, Grok-Jester, is as sarcastic as your sense of humor. here, conversations are dark, punchlines are sharp, and the vibe is perfect for those who like their chat with a hint of midnight mischief. if you're into a chatbot that roasts and entertains at the same time, you’re in the right place.
@@ -36,6 +36,8 @@ to start the chatroom:
 npm run dev
 
 visit http://localhost:3000 to chat in the shadows.
+
+or go https://nightshade.netlify.app/ live !
 
 🌑 key components
 App.tsx: main entry point, setting up user profiles and initializing rooms. as organized as it’s gonna get.
@@ -76,7 +78,7 @@ pour lancer le chatroom :
 npm run dev
 
 visite http://localhost:3000 pour rejoindre les ombres.
-
+sinon visite ! https://nightshade.netlify.app/
 🌑 composants clés
 App.tsx : point d'entrée principal, initialisant les profils utilisateurs et les rooms. c’est le niveau d’organisation auquel tu peux t’attendre.
 ChatRoom.tsx : la room où tout se passe, gérant les interactions du bot et les personnalisations de room.
