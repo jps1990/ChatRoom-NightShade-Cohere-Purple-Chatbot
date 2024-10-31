@@ -24,7 +24,7 @@ prerequisites
 node.js (latest version or whatever won’t crash this project).
 cohere api key for the bot. sign up on Cohere’s site and add your key in an environment variable named VITE_COHERE_API_KEY.
 installation
-clone the repo: git clone https://github.com/YourUsername/NightShade.git cd NightShade
+clone the repo: git clone https://github.com/jps1990/ChatRoom-NightShade-Cohere-Purple-Chatbot.git cd ChatRoom-NightShade-Cohere-Purple-Chatbot
 
 install dependencies: npm install
 
